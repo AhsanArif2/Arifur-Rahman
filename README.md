@@ -9,7 +9,7 @@
 <div align="center">
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=poppins+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=170&lines=%F0%9F%91%8B+Hello,+World!+I'm+Arifur+Rahman;%F0%9F%A7%A0+Building+Smart+%26+Software+with+Intelligent+Ideas;%F0%9F%92" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=exo+Code&weight=500&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=170&lines=%F0%9F%91%8B+Hello,+World!+I'm+Arifur+Rahman;%F0%9F%A7%A0+Building+Smart+%26+Software+with+Intelligent+Ideas" alt="Typing animation" />
 
   <br/>
 
@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Status-Exploring%20%26%20Building-00ff7f?style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web%20Fusion-ff1f7a?style=flat" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Navigation -->
   <a href="#About Me">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
+  <a href="https://github.com/AhsanArif2/Arifur-Rahman/edit/main/README.md#%EF%B8%8F-tech-stack--skills">Tech Stack</a> •
   <a href="#analytics">Analytics</a> •
   <a href="#trophies">Trophies</a> •
   <a href="#connect">Connect</a>
@@ -91,13 +91,6 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -107,7 +100,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
